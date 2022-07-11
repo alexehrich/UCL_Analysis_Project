@@ -1,6 +1,6 @@
 # My First Data Analysis Project
 
-This is the Data Analysis final project. This project implements different tools learned during these weeks with the final goal of visualising some data, previously selected, and analyze those obtained results. To reach the final goal, some instructions have been followed to keep a clear and ordered pace until obtaining the final result.
+This is my first Data Analysis project, which I have developed during my Trainership at Wiley Edge in the SRE Program. This project implements different tools learned during these weeks with the final goal of visualising some data, previously selected, and analyze those obtained results. To reach the final goal, some instructions have been followed to keep a clear and ordered pace until obtaining the final result.
 
 All the goals of this project, could be summarized into the following:
 * Identify and choose a dataset from Internet, which has some relevance to our own interests.
